@@ -3,14 +3,6 @@
 <div align="center">
   <img src="./assets/gandalf_parrot.gif" width="30px"/>
 </div>
-
-<div align="center">
-  <p><b>Visitors Count</b></p>  
-  <p>
-    <img align="center" src="https://profile-counter.glitch.me/DanielDDHM/count.svg"/>
-  </p>
-</div>
-
 <!--
 <div align="center">
   <a href="http://www.github.com/DanielDDHM">
