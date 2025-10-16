@@ -1,17 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1db954&height=120&section=header"/>
-
 <div align="center">
-  <img src="./assets/gandalf_parrot.gif" width="30px"/>
+  <!-- Verifique se essa imagem carrega no navegador -->
+  <img src="https://wakatime.com/badge/user/50fa8c49-ca1e-4bc6-ac1d-986cae421b34.svg" alt="WakaTime Badge" />
+  <img src="assets/gandalf_parrot.gif" width="30" alt="Gandalf Parrot"/>
 </div>
-<!--
-<div align="center">
-  <a href="http://www.github.com/DanielDDHM">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielDDHM&stroke=1db954&background=171717&ring=1db954&fire=1db954&currStreakNum=1db954&currStreakLabel=1db954&sideNums=1db954&sideLabels=1db954&dates=1db954&hide_border=true"/>
-  </a>
-</div>
-<div align="center">
-</div>
--->
 
 <div align="center">
   <picture>
